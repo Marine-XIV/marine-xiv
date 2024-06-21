@@ -14,8 +14,10 @@
 
 
 ### :woman_technologist: About Me :
-My name is - Mфrina
+My name is - Marina
+
 My age - 
+
 you can contact me by discord - 
 
 
