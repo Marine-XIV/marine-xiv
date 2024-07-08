@@ -1,6 +1,6 @@
 
-<img src="https://komarev.com/ghpvc/?username=your-github-marine-xiv&style=flat-square&color=blue" alt=""/>
 <h1>
+
   Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -10,8 +10,8 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marine-xiv&theme=gruvbox)](https://github.com/marine-xiv/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marine-xiv&layout=compact&theme=gruvbox)](https://github.com/marine-xiv/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marine-xiv&layout=compact&theme=gruvbox)](https://github.com/marine-xiv/github-readme-stats)
 
 ### :woman_technologist: About Me :
 My name is - Marina
